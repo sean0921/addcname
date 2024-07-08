@@ -1,0 +1,2 @@
+# addcname
+add CNAME
